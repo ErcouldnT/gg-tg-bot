@@ -1,7 +1,8 @@
 {
   "name": "node-typescript-starter",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "build",
+  "type": "module",
   "license": "MIT",
   "scripts": {
     "dev": "tsx watch src",
